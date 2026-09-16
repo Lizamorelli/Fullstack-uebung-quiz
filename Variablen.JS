@@ -37,3 +37,4 @@ function functionName(zahl1, zahl2) {
 }
 
 console.log(functionName(5, 10));
+
